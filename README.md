@@ -1,2 +1,2 @@
-# Hipolicy: Hierarchical Multi-Frequency Action Chunking for Policy Learning
+# HiPolicy: Hierarchical Multi-Frequency Action Chunking for Policy Learning
 Comming soon!
